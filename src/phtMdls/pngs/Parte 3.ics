@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:SA Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Jaime Alberto Martinez:mailto:jmartinez@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Gabriel Ba
+ rba:mailto:gbarba@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tizziano P
+ erea Ocoró:mailto:tperea@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Camilo Ern
+ esto Hurtado Cataño:mailto:churtado@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Julián An
+ drés Gomez Montoya:mailto:jgomez@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Angelo Mon
+ cada:mailto:amoncada@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jmazabuel:
+ mailto:jmazabuel@qvision.com.co
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Juan Pablo
+  Julio Niño:mailto:jjulio@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Isaack Dav
+ id  Florez Ospino:mailto:iflorez@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jose Gabri
+ el Fonseca Uscategui:mailto:jfonseca@qvision.us
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Daniel Jos
+ e Camargo Acosta:mailto:dcamargo@qvision.com.co
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Luis Felip
+ e Sierra Yañez:mailto:lsierra@qvision.com.co
+DESCRIPTION;LANGUAGE=en-US:\n\n\n__________________________________________
+ ______________________________________\nReunión de Microsoft Teams\nÚnas
+ e a través de su ordenador\, aplicación móvil o dispositivo de sala\nHa
+ ga clic aquí para unirse a la reunión<https://teams.microsoft.com/l/meet
+ up-join/19%3ameeting_N2FlMDQ1YzQtZjE1NC00MDQ5LWJmOGUtZDY5ZjQ3MmQxOGNh%40th
+ read.v2/0?context=%7b%22Tid%22%3a%22d6921bbf-5e55-4660-9f9a-5edb0c619766%2
+ 2%2c%22Oid%22%3a%22137c782c-6ba4-4640-91f7-99f92f186803%22%7d>\nID de la r
+ eunión: 257 445 874 194\nCódigo de acceso: Apq4Mm\nDescargar Teams<https
+ ://www.microsoft.com/en-us/microsoft-teams/download-app> | Unirse en la we
+ b<https://www.microsoft.com/microsoft-teams/join-a-meeting>\nInfórmese<ht
+ tps://aka.ms/JoinTeamsMeeting> | Opciones de reunión<https://teams.micros
+ oft.com/meetingOptions/?organizerId=137c782c-6ba4-4640-91f7-99f92f186803&t
+ enantId=d6921bbf-5e55-4660-9f9a-5edb0c619766&threadId=19_meeting_N2FlMDQ1Y
+ zQtZjE1NC00MDQ5LWJmOGUtZDY5ZjQ3MmQxOGNh@thread.v2&messageId=0&language=es-
+ ES>\n_____________________________________________________________________
+ ___________\n
+UID:040000008200E00074C5B7101A82E008000000009FA8B8C7EB37D901000000000000000
+ 010000000634697E128DDF5488E09D38CF54AA15B
+SUMMARY;LANGUAGE=en-US:Plan semanal Fabrica
+DTSTART;TZID=SA Pacific Standard Time:20230213T093000
+DTEND;TZID=SA Pacific Standard Time:20230213T103000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230210T151516Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=en-US:
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:2121407903
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_N2FlMDQ1YzQtZjE1NC00MDQ5LWJmOGUtZDY5ZjQ3MmQxOGNh%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22d6921bbf-5e55-4660-9f9a-5edb0c619766%22%2c%22O
+ id%22%3a%22137c782c-6ba4-4640-91f7-99f92f186803%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/d6921bbf-5e55-4660-9f9a-5edb0c619766/137c782c-6ba4-4640-91f7-9
+ 9f92f186803/19_meeting_N2FlMDQ1YzQtZjE1NC00MDQ5LWJmOGUtZDY5ZjQ3MmQxOGNh@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_N2FlMDQ1YzQtZjE1NC00MDQ
+ 5LWJmOGUtZDY5ZjQ3MmQxOGNh@thread.v2"\,"rid":"0"\,"mid":"0"\,"private":true
+ \,"type":0}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:jmartinez@qvision.us\;gruu\;opaq
+ ue=app:conf:focus:id:teams:2:0!19:meeting_N2FlMDQ1YzQtZjE1NC00MDQ5LWJmOGUt
+ ZDY5ZjQ3MmQxOGNh-thread.v2!137c782c6ba4464091f799f92f186803!d6921bbf5e5546
+ 609f9a5edb0c619766
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
